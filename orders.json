@@ -1,0 +1,22 @@
+[
+  {
+    "name": "test-user",
+    "amount": 500,
+    "status": "completed"
+  },
+  {
+    "name": "test-user2",
+    "amount": 800,
+    "status": "completed"
+  },
+  {
+    "name": "test-user2",
+    "amount": 1800,
+    "status": "completed"
+  },
+  {
+    "name": "test-user",
+    "amount": 800,
+    "status": "unCompleted"
+  }
+]
